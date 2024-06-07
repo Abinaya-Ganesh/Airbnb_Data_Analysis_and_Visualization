@@ -117,3 +117,5 @@ As the data is not an updated one, search based on availability could not be per
   • The dasboard.py file consists of the code for Streamlit dashboard creation and geo visualization. 
     
   • While, airbnb visualization.pbix (Power BI file) shows visualizations and insights based on the data.
+
+  • Data is provided in the project problem statement pdf as a json file
