@@ -8,6 +8,9 @@ Airbnb sample data is available on Mongo DB Atlas and can be extracted for furth
 
 As the data is not an updated one, search based on availability could not be performed.
 
+![screenshot](https://github.com/user-attachments/assets/e219d9a5-ee94-4818-8b23-ea9046f145c4)
+
+
 **User Guide**
 
 1. Airbnb dashboard created works based on several search filters provided. User can refine the search by providing the destination, property type, price, rating, number of occupants and number of bedroom.
